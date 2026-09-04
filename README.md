@@ -29,4 +29,4 @@ A university project implementing a secure client-server application for encrypt
 ├── poet.h
 ├── helper.h
 ├── gen_signkey.c
-└── Makefile
+

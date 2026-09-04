@@ -1,4 +1,4 @@
-Secure File Transfer in C
+**Secure File Transfer in C
 
 A university project implementing a secure client-server application for encrypted file transfer.
 
@@ -65,3 +65,4 @@ The client and server establish a session key using Libsodium. The server signs 
 Academic Project
 
 This project was developed as part of a university course on cryptography and IT security.
+**
